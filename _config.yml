@@ -1,6 +1,6 @@
 # Site settings
-title: Jim Carrey Blog
-SEOTitle: Jim Carrey的博客 | BY Blog
+title: Jim Carrey
+SEOTitle: Jim Carrey的博客 | BY Jim Carrey
 header-img: img/mask.jpg
 email: lovejimcarreyforever@gmail.com
 description: "Every failure is leading towards success."
@@ -18,7 +18,7 @@ sidebar-avatar: /img/csd.jpg      # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-weibo_username:     1005055215148154/home?from=page_100505&mod=TAB&is_all=1#place
+weibo_username:     5215148154
 zhihu_username:     chen-shuai-dong-56/activities
 github_username:    Jim-Carrey
 facebook_username:  mike_shuai
