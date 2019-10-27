@@ -22,7 +22,7 @@ IDEA作为Java世界的超级明星IDE 早就已经和我们平时的生产开�
 
 1.二话不说 先上JetBrains的GitHub库把开源版intellij-community拿下来（是否fork看你心情）
 clone前请仔细阅读文档，完整的库有3G多，所以克隆的时候be patient,也可以clone readme里的depth1只有几百M
-![avatar](../img/开源折腾/JetBrains_github.jpg "img")<br>
+![avatar](../../img/开源折腾/JetBrains_github.jpg "img")<br>
 
 2.用本机ultimate IDEA导入，现在准备build（因为down的是源码所以用build方式构建项目）
 如何构建一定要看项目的Readme
