@@ -33,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/开源折腾/2019-10-27-IntelliJ IDEA.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="294">
-                <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <first_editor relative-caret-position="189">
+                <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,11 +102,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="397" />
-    <option name="y" value="71" />
-    <option name="width" value="1460" />
-    <option name="height" value="855" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="745" />
+    <option name="y" value="73" />
+    <option name="width" value="1635" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -191,18 +191,18 @@
       <workItem from="1571842645091" duration="395000" />
       <workItem from="1571925362585" duration="1945000" />
       <workItem from="1572149051302" duration="10116000" />
-      <workItem from="1572159363800" duration="3372000" />
+      <workItem from="1572159363800" duration="4629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41591000" />
+    <option name="totallyTimeSpent" value="42848000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="596" y="59" width="1308" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28217158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -217,7 +217,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.39943343" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34135976" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2704" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -476,8 +476,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/开源折腾/2019-10-27-IntelliJ IDEA.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="294">
-            <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <first_editor relative-caret-position="189">
+            <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>

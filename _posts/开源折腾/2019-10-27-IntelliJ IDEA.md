@@ -22,7 +22,7 @@ IDEA作为Java世界的超级明星IDE 早就已经和我们平时的生产开�
 
 1.二话不说 先上JetBrains的GitHub库把开源版intellij-community拿下来（是否fork看你心情）
 clone前请仔细阅读文档，完整的库有3G多，所以克隆的时候be patient,也可以clone readme里的depth1只有几百M
-![avatar](img/开源折腾/JetBrains_github.JPG "img")<br>
+![avatar]({{'../../img/开源折腾/JetBrains_github.jpg'}})<br>
 
 2.用本机ultimate IDEA导入，现在准备build（因为down的是源码所以用build方式构建项目）
 如何构建一定要看项目的Readme
@@ -31,7 +31,7 @@ clone前请仔细阅读文档，完整的库有3G多，所以克隆的时候be p
 在项目Project Structure里设置项目 Platform SDK:<br>
 设置JDK1.8  指向本机jdk1.8<br>
 设置IDEA jdk 指向本机jdk1.6<br>
-![avatar](img/开源折腾/platform_sdk.JPG)<br>
+![avatar](../../img/开源折腾/platform_sdk.jpg)<br>
 **注意**：这里需要将jdk/lib/tools.jar也添加到项目的SDK里（build项目时需要前端编译器javac，javac不在JRE下，而在jdk/lib/toos.jar里<br>
 至于这里的IDEA jdk（jdk1.6）因为后期build的时候项目里有些代码需要1.6的sdk所以这里需要添加jdk1.6到IDEA jdk
 
