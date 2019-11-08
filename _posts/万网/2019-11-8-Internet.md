@@ -4,12 +4,11 @@ title:      万网
 subtitle:    "\" blog记录概要\""
 date:       2019-11-8
 author:     Jim
-header-img: ![mark](http://cdn.jokerjim.com/image/20191109/gVcegT28vdUq.png)
 catalog: true
 tags:
     - 万网
 ---
-
+![mark](http://cdn.jokerjim.com/image/20191109/gVcegT28vdUq.png)
 ##对blog的简明概要记录
 1.阿里云提供域名相关服务<br>
 阿里云上注册的域名： www.jokerjim.com<br>
